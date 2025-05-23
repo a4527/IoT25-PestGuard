@@ -2,4 +2,4 @@
 IoT term-project Team 12
 
 ## Proposal
-![Video](https://www.youtube.com/watch?v=QxB4rv8MSjA)
+![video](https://www.youtube.com/watch?v=QxB4rv8MSjA)

@@ -2,7 +2,7 @@
 IoT term-project Team 12
 
 ## Proposal
-[![Video Label](http://img.youtube.com/vi/QxB4rv8MSjA/0.jpg)](https://youtu.be/QxB4rv8MSjA)
+[![Video Label](http://img.youtube.com/vi/hqGVNqt5VM4/0.jpg)](https://youtu.be/hqGVNqt5VM4)
 
 ## overview
 PestGuard is an IoT-based smart pest detection and capture system designed for everyday environments such as homes, restaurants, libraries, and storage facilities. Utilizing a combination of ESP32-CAM, infrared camera (IR 850), distance sensor (GP2Y0E03), motion sensor (RCWL-0516), and microphone sensor (MAX9814), the system detects pest movement, wing flapping sounds, and presence in real time. It performs basic image recognition to identify pest types and triggers a trap or pesticide spray in the direction where pests are detected. For larger pests like cockroaches, the system sends a wireless alert to the user, enabling immediate awareness and response.

@@ -17,3 +17,14 @@ ir과 음향센서를 조합하여 음향분석을 통해 해충 탐지 및 분�
 알림(경고): 버저(buzzer) 및 LED 점멸, 문자/SMS 알림
 
 https://www.ijset.in/wp-content/uploads/IJSET_V11_issue2_357.pdf
+
+Raspberry Pi에 PIR 모션 센서를 연결해 움직임이 감지되면 Pi 카메라로 사진을 찍고, 간단한 ML(딥러닝) 모델로 동물(혹은 해충) 유무를 판별
+https://github.com/tjvantoll/pest-detector
+
+ Raspberry Pi + 카메라 모듈 + 오픈소스 딥러닝 모델(YOLO 계열)을 활용하여 덫(trap)에 유입된 곤충 이미지를 촬영하고 자동으로 분류·저장하는 시스템.
+ https://maxsitt.github.io/insect-detect-docs/#classification-model
+
+ IR 송신기(LED)와 수신기(포토다이오드)를 이용해 덫(trap)문 부근에 레이저(빔)를 형성하고, 해충(혹은 설치류)이 빔을 차단할 때(Beam break) 서보 모터로 덫문을 닫아 포획하는 방식.
+ https://www.instructables.com/Arduino-Mouse-Trap
+
+ 
